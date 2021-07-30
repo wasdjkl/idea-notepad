@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.wasdjkl.ideanotepad.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.wasdjkl.ideanotepad.MyBundle
 
 class MyApplicationService {
 
